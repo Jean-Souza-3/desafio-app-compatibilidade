@@ -1,0 +1,7 @@
+{
+  "name": "namoro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
